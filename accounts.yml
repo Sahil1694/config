@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Hello from accounts service"
   contactDetails:
-    name: "Sahil"
-    email: "Sahil@gmail.com"
+    name: "Sahil Khilari"
+    email: "SahilKhilari@gmail.com"
   onCallSupport:
    - "123456789"
