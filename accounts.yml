@@ -2,9 +2,9 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "Hello from accounts service"
+  message: "Hello from accounts docker service"
   contactDetails:
-    name: "Sahil Khilari"
-    email: "SahilKhilari@gmail.com"
+    name: "Sahil Sachin Khilari "
+    email: "Sahil@gmail.com"
   onCallSupport:
    - "123456789"
